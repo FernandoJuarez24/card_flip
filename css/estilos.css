@@ -49,6 +49,7 @@ body{
   perspective: 3000px;
   height: 300px;
   border: 0px;
+  cursor: pointer !important;
 }
 
 .flip {
